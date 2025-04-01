@@ -1,0 +1,98 @@
+Based on the provided interfaces and images, here is the corrected JSON representation of the screen. The `valeur` corresponds to the bold text after "libellé :", and if there is a unit like `%` or `€`, it is assigned as the `unite`.
+
+```json
+{
+  "heritiersEtDisposition": {
+    "categories": [
+      {
+        "details": [
+          {
+            "libelle": "Marié sous le régime de la communauté légale"
+          },
+          {
+            "libelle": "Attribution au conjoint survivant",
+            "listeValeurs": [
+              { "valeur": "50", "unite": "%" }
+            ]
+          },
+          {
+            "libelle": "Donation entre époux",
+            "listeValeurs": [
+              { "valeur": "Oui" }
+            ]
+          },
+          {
+            "libelle": "Droit d'option",
+            "listeValeurs": [
+              { "valeur": "1/4 en pleine propriété" }
+            ]
+          },
+          {
+            "libelle": "Enfant(s)",
+            "listeValeurs": [
+              { "valeur": "1" }
+            ]
+          },
+          {
+            "libelle": "Autre(s) héritier(s) ou bénéficiaire(s)",
+            "listeValeurs": [
+              { "valeur": "2" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "patrimoineGlobal": {
+    "categories": [
+      {
+        "details": [
+          {
+            "libellePartenaire": "Arnaud",
+            "listeValeurs": [
+              { 
+                "valeur": "12", 
+                "unite": "%" 
+              },
+              { 
+                "valeur": "- 20 000", 
+                "unite": "€" 
+              }
+            ]
+          },
+          {
+            "libellePartenaire": "Isabelle",
+            "listeValeurs": [
+              { 
+                "valeur": "10", 
+                "unite": "%" 
+              },
+              { 
+                "valeur": "- 10 000", 
+                "unite": "€" 
+              }
+            ]
+          },
+          {
+            "libellePartenaire": "Couple",
+            "listeValeurs": [
+              { 
+                "valeur": "78", 
+                "unite": "%" 
+              },
+              { 
+                "valeur": "- 140 000", 
+                "unite": "€" 
+              }
+            ]
+          },
+          {
+            "libelle": "Abattement sur la résidence principale",
+            "listeValeurs": [
+              { 
+                valeur: '20', unite: '%'  
+}}
+
+Sources
+[1] image.jpg https://pplx-res.cloudinary.com/image/upload/v1743511693/user_uploads/ZvnpgVOOehehvbP/image.jpg
+[2] image.jpg https://pplx-res.cloudinary.com/image/upload/v1743511676/user_uploads/jlMqTSLEkDNHLVi/image.jpg
