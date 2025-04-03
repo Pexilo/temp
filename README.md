@@ -1,3 +1,3 @@
-# temp
+the button above doesn’t work, paste this link into your web browser:
+https://medium.com/m/callback/email?token=c82ec004ae68&operation=login&state=medium
 
-https://forms.office.com/pages/responsepage.aspx?id=hbiXI-Svx0ueHuSJnvRNGrAzCVWMhERFhWRIXZbExQpUODdHMkxGNEgzMzMyMVEzN05FR1pSUERLVy4u&route=shorturl
